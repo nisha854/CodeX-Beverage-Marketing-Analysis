@@ -15,7 +15,7 @@ This project focuses on conducting a comprehensive analysis of CodeX Beverage Ma
 
 <h2>Performed indepth analysis on demographics,customer behavior ,preferences,competitive analysis, codex performance, marketing view etc.</h2>
 
-<h1>Key Insights:</h1>
+<h2>Key Insights:</h2>
 
 <h2>Demographics:</h2>
 <h3>Survey Breakdown-</h3>
@@ -26,78 +26,78 @@ This project focuses on conducting a comprehensive analysis of CodeX Beverage Ma
 
 <h3>Marketing Insight</h3>- Online Ads most effective in reaching young audience (3,373 respondents, age 15-30)
 
-Consumer Preferences:
+**Consumer Preferences:**
 Strong preference for natural & organic ingredients (energy drink ingredients)
 Popular ingredients: Caffeine, B-vitamins, Ginseng
 Wary of artificial sweeteners & preservatives
 
-Packaging Insights-
+**Packaging Insights-**
 Preference for sleek, modern designs with resealable features (cans/bottles)
 Interest in limited edition/seasonal packaging for a unique experience
 
-Competitive Analysis:
-Market Landscape-
+**Competitive Analysis:**
+**Market Landscape-**
 Current leaders: Red Bull, Monster, Rockstar (strong presence & loyal base in India)
 
-Consumer Preferences-
+**Consumer Preferences-**
 Leading brands preferred for:
 Brand recognition
 Perceived quality
 Wider product availability
 
-Purchase decisions influenced by-
+**Purchase decisions influenced by-**
 Taste
 Effectiveness
 Brand trust
 
-Brand Awareness:
+**Brand Awareness:**
 Codex has 3.3 avg taste reating which is relatively low.
 Limited brand recognition & market penetration compared to competitors.
 Low overall brand rating - needs focus on strengthening brand visibility and perception.
-Focus Cities -
+**Focus Cities -**
 Ahmedabad, Chennai, Hyderabad, Kolkata, Lucknow, Mumbai, Pune - key markets for brand awareness and growth initiatives due to current underperformance.
 
-Purchase Channels:
+**Purchase Channels:**
 Supermarkets, convenience stores, and online retailers - preferred purchase locations due to availability and accessibility.
 
-Consumption Occasions:
+**Consumption Occasions:**
 Increased energy and focus (studying, work, exercise)
 Staying alert during social events and commutes
 
-Purchase Drivers:
+**Purchase Drivers:**
 Price range - value-conscious consumers
 Limited edition packaging - attracts interest in novelty and exclusivity
 
-Action Plan for CodeX Energy Drink (based on survey results) :
+**Action Plan for CodeX Energy Drink (based on survey results) :**
 Increased availability in key markets.
 Addressing health concerns to build trust.
 Unique packaging to attract consumer interest.
 Natural ingredients and reduced sugar for a healthier image.
 Improving brand perception through targeted communication.
 
-Recommendation:
+**Recommendation:**
 
-Pricing:
+**Pricing:**
 National Range: Consider a standard price point between ₹50-₹99 for wider brand consistency. This aligns with competitor pricing and consumer expectations in key focus cities.
 Promotional Strategies:
 Bundle Deals: Offer packs of 6 cans at a discount compared to individual purchases.
 Seasonal Promotions: Design special gift sets or limited edition flavors around festivals celebrated in target cities.
 Marketing Campaigns (Target Audience: 15-30 Year Olds):
 
-Social Media Marketing:
+**Social Media Marketing:**
 Develop targeted ad campaigns on platforms like Instagram, TikTok, and Snapchat.
 Partner with micro-influencers relevant to the target audience (e.g., fitness enthusiasts, gamers).
-Influencer Marketing:
+**Influencer Marketing:**
 Collaborate with both macro-influencers (e.g., Virat Kohli) and micro-influencers for broader reach and impact.
 Offer product giveaways and exclusive discounts to their followers.
-Online Retail & E-commerce:
+**Online Retail & E-commerce:**
 Utilize advertising platforms of e-commerce and online grocery stores.
 Partner with online retailers for product placement and promotions.
-Guerilla Marketing:
+**Guerilla Marketing:**
 Create unique in-store displays in supermarkets and convenience stores.
 Participate in popular food and beverage festivals to generate buzz.
 
-Target Audience:
+**Target Audience:**
 Focus marketing efforts on the 15-30 age group as they represent the majority of your current consumer base (70%). Their preference for social media aligns perfectly with your chosen marketing channels.
 
 
