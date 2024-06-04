@@ -18,6 +18,8 @@ This project focuses on conducting a comprehensive analysis of CodeX Beverage Ma
 <h2>Key Insights:</h2>
 
 <h2>Demographics:</h2>
+![image](https://github.com/nisha854/CodeX-Beverage-Marketing-Analysis/assets/67072192/6747b5da-0928-4b5e-987d-7f66f711c0ae)
+
 <h3>Survey Breakdown-</h3>
 10,000 respondents
 60.4% male (derived from 6,038 male respondents)
