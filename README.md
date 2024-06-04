@@ -8,23 +8,23 @@ This project focuses on conducting a comprehensive analysis of CodeX Beverage Ma
 <h4>Language:</h4> DAX
 
 
-<h3>Step1:</h3> Cleaned Dateset using power query and performed feature engineering to improve the data quality.
+<h3>Step1:</h3> Cleaned Dataset using power query and performed feature engineering to improve the data quality.
 <h3>Step2:</h3> Import dataset in Power BI desktop and perform data modelling.
 <h3>Step3:</h3> Wrote Dax queries to find the key measure and important metrics for comparison of codex and its competitors.
 <h3>Step4:</h3> Visualize and Analyze Data
 
-Performed indepth analysis on demographics,customer behavior ,preferences,competitive analysis, codex performance, marketing view etc.
+<h2>Performed indepth analysis on demographics,customer behavior ,preferences,competitive analysis, codex performance, marketing view etc.</h2>
 
-Key Insights:
+<h1>Key Insights:</h1>
 
-Demographics:
-Survey Breakdown-
+<h2>Demographics:</h2>
+<h3>Survey Breakdown-</h3>
 10,000 respondents
 60.4% male (derived from 6,038 male respondents)
 50%+ in age group 19-30 (indicates popularity among young adults)
 70%+ in age groups 15-30 combined (highlights strong youth preference)
 
-Marketing Insight- Online Ads most effective in reaching young audience (3,373 respondents, age 15-30)
+<h3>Marketing Insight</h3>- Online Ads most effective in reaching young audience (3,373 respondents, age 15-30)
 
 Consumer Preferences:
 Strong preference for natural & organic ingredients (energy drink ingredients)
