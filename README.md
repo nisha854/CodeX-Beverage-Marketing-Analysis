@@ -7,11 +7,6 @@ This project focuses on conducting a comprehensive analysis of CodeX Beverage Ma
 <h4>Tool used:</h4> Power BI,Power Query
 <h4>Language:</h4> DAX
 
-
-
-![bvg_codex](https://github.com/nisha854/CodeX-Beverage-Marketing-Analysis/assets/67072192/7ca77f65-4974-497f-889c-2bddf6223954)
-
-
 <h3>Step1:</h3> Cleaned Dataset using power query and performed feature engineering to improve the data quality.
 <h3>Step2:</h3> Import dataset in Power BI desktop and perform data modelling.
 <h3>Step3:</h3> Wrote Dax queries to find the key measure and important metrics for comparison of codex and its competitors.
