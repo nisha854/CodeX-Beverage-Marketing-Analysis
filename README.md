@@ -4,13 +4,14 @@ CodeX is a German beverage company which is recently launched in India. They lau
 <h2>Overview of Project </h2>
 This project focuses on conducting a comprehensive analysis of CodeX Beverage Marketing. identified problem areas, propose solutions, and explore consumer preferences. Additionally,  analyzed the competition and assess marketing channels to enhance brand awareness. Also delve into brand perception and focus cities to optimize our strategies. Furthermore, it examines purchase behavior and identify areas for product development. Lastly, cover by explore pricing and promotional strategies and discuss the qualities of potential brand ambassadors.
 
-<h4>Tool used</h4>: Power BI,Power Query
-<h4>Language</h4>: DAX
+<h4>Tool used:</h4> Power BI,Power Query
+<h4>Language:</h4> DAX
 
-Step1: Cleaned Dateset using power query and performed feature engineering to improve the data quality.
-Step2: Import dataset in Power BI desktop and perform data modelling.
-Step3: Wrote Dax queries to find the key measure and important metrics for comparison of codex and its competitors.
-Step4: Visualize and Analyze Data
+
+<h3>Step1:</h3> Cleaned Dateset using power query and performed feature engineering to improve the data quality.
+<h3>Step2:</h3> Import dataset in Power BI desktop and perform data modelling.
+<h3>Step3:</h3> Wrote Dax queries to find the key measure and important metrics for comparison of codex and its competitors.
+<h3>Step4:</h3> Visualize and Analyze Data
 
 Performed indepth analysis on demographics,customer behavior ,preferences,competitive analysis, codex performance, marketing view etc.
 
