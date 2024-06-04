@@ -21,7 +21,7 @@ This project focuses on conducting a comprehensive analysis of CodeX Beverage Ma
 
 <h2>Key Insights:</h2>
 
-<h2>Demographics:</h2>
+<h3>Demographics:</h3>
 
 <h3>Survey Breakdown-</h3>
 10,000 respondents
@@ -42,7 +42,6 @@ Interest in limited edition/seasonal packaging for a unique experience
 
 **Competitive Analysis:**
 
-![Uploading competition.png…]()
 
 **Market Landscape-**
 Current leaders: Red Bull, Monster, Rockstar (strong presence & loyal base in India)
